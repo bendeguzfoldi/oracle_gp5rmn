@@ -200,31 +200,3 @@ insert into SEGMENTS values (14,TO_DATE('2018-10-20','YYYY.MM.DD'),1,4,16,8,13);
 insert into SEGMENTS values (15,TO_DATE('2018-10-20','YYYY.MM.DD'),5,2,18,9,12); --DEB-LTN
 insert into SEGMENTS values (16,TO_DATE('2018-10-20','YYYY.MM.DD'),4,1,16,8,13); --WAW-BUD
 insert into SEGMENTS values (17,TO_DATE('2018-10-20','YYYY.MM.DD'),2,5,18,9,12); --LTN-DEB
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
